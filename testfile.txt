@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 00BA-FCDF
+
+ Directory of F:\myGitProj
+
+03/28/2021  08:39 PM    <DIR>          .
+03/28/2021  08:39 PM    <DIR>          ..
+03/28/2021  08:39 PM                 0 testfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  302,041,559,040 bytes free
